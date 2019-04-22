@@ -1,4 +1,4 @@
-Redmine::Plugin.register :redmine_nti_accordion do
+Redmine::Plugin.register :redmine_Agetic_accordion do
   name 'Redmine Projects Accordion plugin NTI Modifications'
   author 'Vinicius Victorio'
   description 'Este plugin foi alterado para as atender as necessidades do NTI'
