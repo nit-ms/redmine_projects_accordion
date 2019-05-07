@@ -2,7 +2,7 @@ Redmine::Plugin.register :redmine_Agetic_accordion do
   name 'Redmine Projects Accordion plugin NTI Modifications'
   author 'Vinicius Victorio'
   description 'Este plugin foi alterado para as atender as necessidades do NTI'
-  version '0.1.0'
+  version '0.1.1'
   url 'http://reuben.mallaby.me'
   author_url 'http://reuben.mallaby.me'
 end
