@@ -3,7 +3,7 @@ redmine_projects_accordion
 
 Projects accordion view for Redmine
 
-Requires Redmine 2.1+
+Requires Redmine 4.1+
 
 Pluging modified by Vinicius Victorio - AGETIC/UFMS - Campo Grande 
 

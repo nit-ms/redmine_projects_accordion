@@ -52,4 +52,7 @@ ul.acc li.section.expanded>.title {
   background-image: url(../images/expanded.png);
 }
 
-.accordion a.project { display: inline-block;}
+.splitcontentleft {float: left; width: 49%;}
+.splitcontentright {float: right; width: 49%;}
+
+.accordion a.project, .accordion .project{ display: inline-block;}
